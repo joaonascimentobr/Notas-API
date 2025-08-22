@@ -1,0 +1,17 @@
+{
+    "name": "202503851654/app",
+    "autoload": {
+        "psr-4": {
+            "202503851654\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "imPCamuriDev",
+            "email": "pedrogabrielofc@hotmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "3.4"
+    }
+}
